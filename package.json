@@ -1,0 +1,20 @@
+{
+  "name": "health-care-manager",
+  "version": "1.0.0", 
+  "description": "This npm package provides functionalities for managing healthcare records on the blockchain. It allows healthcare providers and patients to securely store, retrieve, update, and delete healthcare records in a decentralized and immutable manne",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cocolumbo/health-care-manager.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "cocolumbo",
+  "license": "MIT"
+}
